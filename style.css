@@ -1,5 +1,10 @@
 body{
     background-image: url('1.jpg');
+    background-position: left;
+    background-repeat: no-repeat;
+    /* background-image: url('2.jfif');
+    background-position: right;
+    background-repeat: no-repeat; */
 
     
 }
